@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Music",
+  "description": "Classic Samurai-themed Discord Music Bot with Discord.js v14, Lavalink v4, SQLite persistence, and real-time bot control console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
